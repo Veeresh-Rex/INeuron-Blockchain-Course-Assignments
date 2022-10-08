@@ -1,0 +1,13 @@
+Q-5 - What string method can be used to convert string into array ?
+Ans - split() method is used to convert string into array.
+      Ex. str = 'This is Cat';
+            str.split(' ');
+            // Output -> ['This', 'is', 'Cat']
+Q-6 - What string method can be used to check the occurrence of a specified
+      text in a string?
+Ans - mathch() method.
+Q-7 - How can you break a string to a newline in Javascript?
+Ans - By using '\n'.
+      Ex. var str = "Hello Ineuron!\nThis is a string";
+      // Output - Hello Ineuron
+                  This is a string.
