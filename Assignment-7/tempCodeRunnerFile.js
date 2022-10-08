@@ -1,1 +1,0 @@
-convertFirstCharToUpperCase
